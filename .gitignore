@@ -1,0 +1,15 @@
+# Виртуальное окружение и кэш Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Локальные данные и резервные копии
+records.json
+records.json.bak
+*.tmp
+*.bak
+
+# Скриншоты / системные файлы
+shots/
+.DS_Store
